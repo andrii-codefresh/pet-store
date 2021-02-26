@@ -31,7 +31,7 @@ A Pet Store application with Node.js(ES6), Express framework, Mocha/chai(Test Ca
 ## App Structure
 
 **./test**
-
+ 
 - this folder contains integration tests [Mocha]
 
 **./** 
