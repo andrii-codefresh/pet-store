@@ -22,7 +22,7 @@ A Pet Store application with Node.js(ES6), Express framework, Mocha/chai(Test Ca
     This api is used to get the single owner information with their pet. 
     
 3.) Api Name :- /addPet (POST)
-    This api is used to add a new pet in the json file.
+    This api is used to add a new  pet in the json file.
 
 4.) Api Name :- /pets/1 (GET)
     This api is used to get a single pet information with their owner.    
