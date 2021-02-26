@@ -34,7 +34,7 @@ A Pet Store application with Node.js(ES6), Express framework, Mocha/chai(Test Ca
 
 - this folder contains integration tests [Mocha]
 
-**./**
+**./** 
 
 - `controllers` are route handlers that have `request` and `response` parameters.
 - `routes` are RESTful route declarations using [express server module]
