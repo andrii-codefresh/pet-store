@@ -28,7 +28,7 @@ A Pet Store application with Node.js(ES6), Express framework, Mocha/chai(Test Ca
     This api is used to get a single pet information with their owner.    
     
     
-## App Structure
+## App Structure 
 
 **./test**
 
