@@ -32,7 +32,7 @@ A Pet Store application with Node.js(ES6), Express framework, Mocha/chai(Test Ca
 
 **./test**
 
-- this folder contains integration tests [Mocha]
+- this folder contains integration tests [Mocha] 
 
 **./**
 
